@@ -1,5 +1,5 @@
 {
-  "name": "contributte/facebook",
+  "name": "kravcik/facebook",
   "description": "Easy-to-use Facebook login wrapper for [`Nette Framework`](https://github.com/nette/).",
   "keywords": ["facebook", "login", "php", "sdk", "nette", "oauth2"],
   "type": "library",
